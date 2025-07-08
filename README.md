@@ -5,7 +5,7 @@
 [![ROS](https://img.shields.io/badge/ROS-Noetic-blue.svg)](https://www.ros.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Advanced robotics perception and control systems featuring computer vision algorithms, sensor fusion, and control theory implementations. Designed for autonomous robots, industrial automation, and research applications.
+Advanced robotics perception and control systems featuring computer vision algorithms, sensor fusion, and control theory implementations. Designed for autonomous robots, industrial automation, and research applications. This repository presents a structured collection of code and assignments completed for ESE 6500 spring 2025ver at the University of Pennsylvania.
 
 ## 🎯 Features
 
