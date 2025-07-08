@@ -7,7 +7,7 @@
 
 Advanced robotics perception and control systems featuring computer vision algorithms, sensor fusion, and control theory implementations. Designed for autonomous robots, industrial automation, and research applications. This repository presents a structured collection of code and assignments completed for ESE 6500 spring 2025ver at the University of Pennsylvania.
 
-## 🎯 Features
+## Features
 
 - **Computer Vision**: Object detection, tracking, and recognition
 - **Sensor Fusion**: Multi-modal sensor integration
@@ -16,7 +16,7 @@ Advanced robotics perception and control systems featuring computer vision algor
 - **Real-time Processing**: Optimized for robotic applications
 - **ROS Integration**: Compatible with Robot Operating System
 
-## 🚀 Quick Start
+## Quick Start
 
 ```python
 from src.perception import VisionSystem
@@ -50,7 +50,7 @@ control_commands = controller.compute_control()
 - **IMU Fusion**: Attitude and motion estimation
 - **GPS Integration**: Global localization
 
-## 🎮 Control Systems
+## Control Systems
 
 ### Classical Control
 ```python
@@ -75,7 +75,7 @@ mpc = MPCController(
 optimal_control = mpc.solve(current_state, reference_trajectory)
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 robotics-perception-control/
@@ -98,7 +98,7 @@ robotics-perception-control/
 └── README.md                  # This file
 ```
 
-## 🛠 Hardware Integration
+## Hardware Integration
 
 ### Supported Hardware
 - **Cameras**: USB, GigE, and IP cameras
@@ -112,7 +112,7 @@ robotics-perception-control/
 - **Serial**: Arduino and microcontroller integration
 - **CAN Bus**: Industrial automation protocols
 
-## 🎯 Applications
+## Applications
 
 ### Autonomous Vehicles
 ```python
@@ -153,11 +153,11 @@ path = navigator.plan_path(current_pose, goal_pose)
 navigator.execute_path(path)
 ```
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 Performance will vary based on your specific hardware, algorithms, and application requirements. The system is designed to provide real-time processing capabilities for robotics applications.
 
-## 🔧 Advanced Features
+## Advanced Features
 
 ### Machine Learning Integration
 ```python
@@ -182,21 +182,6 @@ optimal_trajectory = optimizer.optimize(
 )
 ```
 
-## 🔬 Research Applications
-
-- **Academic Research**: Robotics algorithms development
-- **Industry**: Manufacturing automation and quality control
-- **Defense**: Autonomous systems and surveillance
-- **Healthcare**: Surgical robotics and rehabilitation
-
-## 🤝 Contributing
-
-We welcome contributions in perception algorithms, control methods, and hardware integration!
-
-## 📄 License
+## License
 
 MIT License - see [LICENSE](LICENSE) for details.
-
----
-
-👁️ **See, Think, Act - Complete Robotics Intelligence**
